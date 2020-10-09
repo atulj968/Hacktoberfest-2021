@@ -3,6 +3,6 @@ Participants of Hacktoberfest Event To add your name in the list just edit the p
 
 Please add your name in the format specified below at the end of the list. print("Your Name: profile link") for example,
 
-print("Ashita Gaur: https://github.com/ashitagaur00")
+print(" Ashita Gaur: https://github.com/ashitagaur00")
 
 Let the Hack begin :octocat:
